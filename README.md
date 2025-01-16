@@ -1,5 +1,5 @@
 <p align="center">
-<img src=./Images/pipeline.png width=100% height=100%>
+<img src=./Images/pipeline.png width=80% height=80%>
 </p>
 
 # Contrastive_Mixer
