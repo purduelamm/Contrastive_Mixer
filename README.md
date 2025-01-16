@@ -9,8 +9,18 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## Table of Contents
+
+- [Download Process](#download-process)
+- [ToDo Lists](#todo-lists)
+
 ## Download Process
 
     git clone https://github.com/purduelamm/Contrastive_Mixer.git
     cd Contrastive_Mixer/
     pip3 install -r requirements.txt
+
+## ToDo Lists
+
+| **Documentation** | ![Progress](https://geps.dev/progress/100) |
+| --- | --- |
