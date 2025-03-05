@@ -43,5 +43,5 @@ Contrastive Mixer (CM) requires 2-steps to train (1) Backbone and (2) Head. Belo
 
 ## ToDo Lists
 
-| **Documentation** | ![Progress](https://geps.dev/progress/50) |
+| **Documentation** | ![Progress](https://geps.dev/progress/60) |
 | --- | --- |
