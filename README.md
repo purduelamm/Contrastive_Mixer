@@ -1,10 +1,10 @@
 <p align="center">
-<img src=./images/LAMM.png width=20% height=20%>
+<img src=./Images/LAMM.png width=20% height=20%>
 </p>
 
 # Contrastive_Mixer
 
-![Example 0](./images/pipeline.png)
+![Example 0](./Images/pipeline.png)
 
 Authors: Eunseob Kim, [Hojun Lee](https://kidpaul94.github.io/), [Yuseop Sim](https://yuseopsim.github.io), [Jiho Lee](https://www.jiholee.xyz/people), [Martin B.G. Jun](https://web.ics.purdue.edu/~jun25/members.html)
 
