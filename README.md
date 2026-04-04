@@ -4,7 +4,11 @@
 
 # Contrastive_Mixer
 
-![Example 0](./Images/pipeline.png)
+<div align="center">
+
+![Example 0](./Images/framework.png)
+
+</div>
 
 Authors: Eunseob Kim, [Hojun Lee](https://kidpaul94.github.io/), [Yuseop Sim](https://yuseopsim.github.io), [Jiho Lee](https://www.jiholee.xyz/people), [Martin B.G. Jun](https://web.ics.purdue.edu/~jun25/members.html)
 
