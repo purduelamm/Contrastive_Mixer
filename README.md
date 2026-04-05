@@ -19,10 +19,10 @@ Contrastive Mixer (CM) model to predict Remaining Useful Life (RUL) of a machine
 ## Table of Contents
 
 - [Download Process](#download-process)
-- [ToDo Lists](#todo-lists)
 - [How to Run](#how-to-run)
     - [Training](#training)
     - [Inference](#inference)
+- [ToDo Lists](#todo-lists)
 
 ## Download Process
 
