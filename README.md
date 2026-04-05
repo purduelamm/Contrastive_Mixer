@@ -14,7 +14,7 @@ Authors: Eunseob Kim, [Hojun Lee](https://kidpaul94.github.io/), [Yuseop Sim](ht
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Contrastive Mixer (CM) model to predict Remaining Useful Life (RUL) of a machine tool. We fuse [SimCLR](https://arxiv.org/pdf/2002.05709), [MLP-Mixer](https://arxiv.org/pdf/2105.01601), and a stethoscope-based sound sensor to found a framework for RUL prediction of plasma nozzles attahced on a Plasma Arc Cutting (PAC) tool 
+Contrastive Mixer (CM) model to predict Remaining Useful Life (RUL) of a machine tool. We fuse [SimCLR](https://arxiv.org/pdf/2002.05709), [MLP-Mixer](https://arxiv.org/pdf/2105.01601), and a stethoscope-based sound sensor to found a framework for RUL prediction of plasma nozzles attahced on a Plasma Arc Cutting (PAC) tool. 
 
 ## Table of Contents
 
